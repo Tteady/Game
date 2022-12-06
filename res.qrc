@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>HeatleyBros.mp3</file>
+        <file>lz.wav</file>
+        <file>vz.wav</file>
+        <file>vzplayer.wav</file>
+        <file>vzm.wav</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>bullet.png</file>
+        <file>enemy.png</file>
+        <file>spaceship.png</file>
+        <file>EBullet.png</file>
+        <file>space.jpg</file>
+        <file>space2.png</file>
+        <file>meteor.png</file>
+        <file>speedship.png</file>
+    </qresource>
+</RCC>
